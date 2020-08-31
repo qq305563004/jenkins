@@ -9,4 +9,9 @@ public class TestController {
     public String test(){
         return "jenkins!!!";
     }
+
+    @GetMapping("test2")
+    public String test1(){
+        return "jenkins2!!!";
+    }
 }
