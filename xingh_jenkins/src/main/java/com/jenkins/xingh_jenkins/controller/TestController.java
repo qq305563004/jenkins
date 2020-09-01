@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
     @GetMapping("/test")
     public String test(){
-        return "徐伟喜欢大保健!!!";
+        return "宋文豪....";
     }
 
     @GetMapping("test2")
