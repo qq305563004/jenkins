@@ -8,7 +8,7 @@ class XinghJenkinsApplicationTests {
 
     @Test
     void contextLoads() {
-		int i = 0;
+
     }
 
 }
